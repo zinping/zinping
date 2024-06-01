@@ -2,7 +2,7 @@
 <br />
 <h1 align="center"> Archievements </h1>
 <p align="center">
-  <a href="https://github.com/OnlyForward0613?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=OnlyForward0613&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@OnlyForward0613's trophy stats"/></a>
+  <a href="https://github.com/zinping?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=zinping&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@zinping's trophy stats"/></a>
 </p>
 <table align="center">
 <tr>
@@ -134,14 +134,14 @@
 </table>
 <br/>
 
+<!-- <p align="center">
+  <img src="https://github.com/zinping/zinping/blob/master/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
+</p> -->
 <p align="center">
-  <img src="https://github.com/OnlyForward0613/OnlyForward0613/blob/master/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
-</p>
-<p align="center">
-  <a href="https://github.com/OnlyForward0613/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=OnlyForward0613&show_icons=true&theme=radical&card_width=350&rank_icon=github" />
+  <a href="https://github.com/zinping/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zinping&show_icons=true&theme=radical&card_width=350&rank_icon=github" />
   </a>
-  <a href="https://github.com/OnlyForward0613/convoychat">
+  <a href="https://github.com/zinping/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ffflabs&layout=compact&langs_count=8&card_width=350&theme=radical" />
   </a>
 </p>
