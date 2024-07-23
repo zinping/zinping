@@ -1,6 +1,6 @@
 <h1 align="center">🖐️ Senior Full Stack Developer 🖐️</h1> 
 <br />
-<h1 align="center"> Archievements </h1>
+<h1 align="center"> Achievements </h1>
 <p align="center">
   <a href="https://github.com/zinping?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=zinping&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@zinping's trophy stats"/></a>
 </p>
